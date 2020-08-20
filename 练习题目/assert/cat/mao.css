@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html, body,.container{
+    width: 100%;
+    height: 100%;
+}
+.maoshenti{
+    position: absolute;
+    width: 117px;
+    height: 200px;
+    top: 50%;
+    left: 50%;
+    background-image: url(./maoshenti.png);
+    transform: translate3d(-50%,-50%,0)
+}
+.maowei {
+    position: absolute;
+    width: 64px;
+    height: 94px;
+    top: 22%;
+    left: 31%;
+    background-image: url(./maowei.png);
+}

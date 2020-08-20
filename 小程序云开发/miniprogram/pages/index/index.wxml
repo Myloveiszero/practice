@@ -1,0 +1,2 @@
+<input value=""></input>
+<button type="primary" bindtap="AddInfo">添加用户信息</button>
